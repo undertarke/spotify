@@ -1,0 +1,19 @@
+version: "1.0.0"
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 8000:8000
+  db:
+    image: mysql:8.0
+    container_name: db_spotify
+    environment:
+      MYSQL_ALLOW_EMPTY_PASSWORD: yes
+      MYSQL_DATABASE: spotify
+    volumes:
+      - ./mysql-dump:/docker-entrypoint-initdb.d
+    ports:
+      - 3306:3306
+name: "spotify"

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" style="height: 100%;">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="f">Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<style>
+    /* CHECKBOX TOGGLE SWITCH */
+    /* @apply rules for documentation, these do not work as inline style */
+    .toggle-checkbox:checked {
+        @apply: right-0 border-green-400;
+        right: 0;
+        border-color: #68D391;
+    }
+
+    .toggle-checkbox:checked+.toggle-label {
+        @apply: bg-green-400;
+        background-color: #68D391;
+    }
+</style>
+
+<body style="height: 100%;">
+    <div id="root" style="height: 100%;">
+
+    </div>
+</body>
+<script src="./dashboard.js"></script>
+<script src="./static/dashboard.js"></script>
+
+</html>
