@@ -1,0 +1,76 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\avatars\db_0d92d9bd-0c0b-49ea-ada5-acce5826b3f2.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Api_TikTok</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Api_TikTok</BasePath>
+      <RelativePath>avatars/db_0d92d9bd-0c0b-49ea-ada5-acce5826b3f2.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>jg2tle1fnp</Fingerprint>
+      <Integrity>s65zLLsBUbA90+4Ak5Sgk1Fk0m3RoLAp9+S3lJ09tT0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\avatars\db_0d92d9bd-0c0b-49ea-ada5-acce5826b3f2.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\video10s_265034ec-d17d-4a2c-b97b-426fb6c7c149.mp4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Api_TikTok</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Api_TikTok</BasePath>
+      <RelativePath>videos/video10s_265034ec-d17d-4a2c-b97b-426fb6c7c149.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kfcgkii9ke</Fingerprint>
+      <Integrity>EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\video10s_265034ec-d17d-4a2c-b97b-426fb6c7c149.mp4'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\video10s_7b60e2c0-1191-4f9c-9d20-d297aad0c628.mp4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Api_TikTok</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Api_TikTok</BasePath>
+      <RelativePath>videos/video10s_7b60e2c0-1191-4f9c-9d20-d297aad0c628.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kfcgkii9ke</Fingerprint>
+      <Integrity>EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\video10s_7b60e2c0-1191-4f9c-9d20-d297aad0c628.mp4'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\video10s_a2803431-7903-4365-a664-f666a0983d80.mp4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Api_TikTok</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Api_TikTok</BasePath>
+      <RelativePath>videos/video10s_a2803431-7903-4365-a664-f666a0983d80.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kfcgkii9ke</Fingerprint>
+      <Integrity>EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\video10s_a2803431-7903-4365-a664-f666a0983d80.mp4'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

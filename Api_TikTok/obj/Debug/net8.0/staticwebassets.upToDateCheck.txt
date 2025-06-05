@@ -1,0 +1,4 @@
+wwwroot\avatars\db_0d92d9bd-0c0b-49ea-ada5-acce5826b3f2.png
+wwwroot\videos\video10s_265034ec-d17d-4a2c-b97b-426fb6c7c149.mp4
+wwwroot\videos\video10s_7b60e2c0-1191-4f9c-9d20-d297aad0c628.mp4
+wwwroot\videos\video10s_a2803431-7903-4365-a664-f666a0983d80.mp4

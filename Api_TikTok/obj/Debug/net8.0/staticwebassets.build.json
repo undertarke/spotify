@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "s2COm0G4DK8uKtR3JquERG/GhU0pcjgfT7eF/YHt/l4=",
+  "Source": "Api_TikTok",
+  "BasePath": "_content/Api_TikTok",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Api_TikTok\\wwwroot",
+      "Source": "Api_TikTok",
+      "ContentRoot": "E:\\Course\\Api_TikTok\\wwwroot\\",
+      "BasePath": "_content/Api_TikTok",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Course\\Api_TikTok\\wwwroot\\avatars\\db_0d92d9bd-0c0b-49ea-ada5-acce5826b3f2.png",
+      "SourceId": "Api_TikTok",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Course\\Api_TikTok\\wwwroot\\",
+      "BasePath": "_content/Api_TikTok",
+      "RelativePath": "avatars/db_0d92d9bd-0c0b-49ea-ada5-acce5826b3f2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jg2tle1fnp",
+      "Integrity": "s65zLLsBUbA90+4Ak5Sgk1Fk0m3RoLAp9+S3lJ09tT0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\avatars\\db_0d92d9bd-0c0b-49ea-ada5-acce5826b3f2.png"
+    },
+    {
+      "Identity": "E:\\Course\\Api_TikTok\\wwwroot\\videos\\video10s_265034ec-d17d-4a2c-b97b-426fb6c7c149.mp4",
+      "SourceId": "Api_TikTok",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Course\\Api_TikTok\\wwwroot\\",
+      "BasePath": "_content/Api_TikTok",
+      "RelativePath": "videos/video10s_265034ec-d17d-4a2c-b97b-426fb6c7c149#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kfcgkii9ke",
+      "Integrity": "EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\video10s_265034ec-d17d-4a2c-b97b-426fb6c7c149.mp4"
+    },
+    {
+      "Identity": "E:\\Course\\Api_TikTok\\wwwroot\\videos\\video10s_7b60e2c0-1191-4f9c-9d20-d297aad0c628.mp4",
+      "SourceId": "Api_TikTok",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Course\\Api_TikTok\\wwwroot\\",
+      "BasePath": "_content/Api_TikTok",
+      "RelativePath": "videos/video10s_7b60e2c0-1191-4f9c-9d20-d297aad0c628#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kfcgkii9ke",
+      "Integrity": "EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\video10s_7b60e2c0-1191-4f9c-9d20-d297aad0c628.mp4"
+    },
+    {
+      "Identity": "E:\\Course\\Api_TikTok\\wwwroot\\videos\\video10s_a2803431-7903-4365-a664-f666a0983d80.mp4",
+      "SourceId": "Api_TikTok",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Course\\Api_TikTok\\wwwroot\\",
+      "BasePath": "_content/Api_TikTok",
+      "RelativePath": "videos/video10s_a2803431-7903-4365-a664-f666a0983d80#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kfcgkii9ke",
+      "Integrity": "EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\video10s_a2803431-7903-4365-a664-f666a0983d80.mp4"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "avatars/db_0d92d9bd-0c0b-49ea-ada5-acce5826b3f2.jg2tle1fnp.png",
+      "AssetFile": "E:\\Course\\Api_TikTok\\wwwroot\\avatars\\db_0d92d9bd-0c0b-49ea-ada5-acce5826b3f2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s65zLLsBUbA90+4Ak5Sgk1Fk0m3RoLAp9+S3lJ09tT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 02:42:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jg2tle1fnp"
+        },
+        {
+          "Name": "label",
+          "Value": "avatars/db_0d92d9bd-0c0b-49ea-ada5-acce5826b3f2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s65zLLsBUbA90+4Ak5Sgk1Fk0m3RoLAp9+S3lJ09tT0="
+        }
+      ]
+    },
+    {
+      "Route": "avatars/db_0d92d9bd-0c0b-49ea-ada5-acce5826b3f2.png",
+      "AssetFile": "E:\\Course\\Api_TikTok\\wwwroot\\avatars\\db_0d92d9bd-0c0b-49ea-ada5-acce5826b3f2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s65zLLsBUbA90+4Ak5Sgk1Fk0m3RoLAp9+S3lJ09tT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 02:42:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s65zLLsBUbA90+4Ak5Sgk1Fk0m3RoLAp9+S3lJ09tT0="
+        }
+      ]
+    },
+    {
+      "Route": "videos/video10s_265034ec-d17d-4a2c-b97b-426fb6c7c149.kfcgkii9ke.mp4",
+      "AssetFile": "E:\\Course\\Api_TikTok\\wwwroot\\videos\\video10s_265034ec-d17d-4a2c-b97b-426fb6c7c149.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16741710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 02:42:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfcgkii9ke"
+        },
+        {
+          "Name": "label",
+          "Value": "videos/video10s_265034ec-d17d-4a2c-b97b-426fb6c7c149.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc="
+        }
+      ]
+    },
+    {
+      "Route": "videos/video10s_265034ec-d17d-4a2c-b97b-426fb6c7c149.mp4",
+      "AssetFile": "E:\\Course\\Api_TikTok\\wwwroot\\videos\\video10s_265034ec-d17d-4a2c-b97b-426fb6c7c149.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16741710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 02:42:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc="
+        }
+      ]
+    },
+    {
+      "Route": "videos/video10s_7b60e2c0-1191-4f9c-9d20-d297aad0c628.kfcgkii9ke.mp4",
+      "AssetFile": "E:\\Course\\Api_TikTok\\wwwroot\\videos\\video10s_7b60e2c0-1191-4f9c-9d20-d297aad0c628.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16741710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 02:42:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfcgkii9ke"
+        },
+        {
+          "Name": "label",
+          "Value": "videos/video10s_7b60e2c0-1191-4f9c-9d20-d297aad0c628.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc="
+        }
+      ]
+    },
+    {
+      "Route": "videos/video10s_7b60e2c0-1191-4f9c-9d20-d297aad0c628.mp4",
+      "AssetFile": "E:\\Course\\Api_TikTok\\wwwroot\\videos\\video10s_7b60e2c0-1191-4f9c-9d20-d297aad0c628.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16741710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 02:42:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc="
+        }
+      ]
+    },
+    {
+      "Route": "videos/video10s_a2803431-7903-4365-a664-f666a0983d80.kfcgkii9ke.mp4",
+      "AssetFile": "E:\\Course\\Api_TikTok\\wwwroot\\videos\\video10s_a2803431-7903-4365-a664-f666a0983d80.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16741710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 02:42:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfcgkii9ke"
+        },
+        {
+          "Name": "label",
+          "Value": "videos/video10s_a2803431-7903-4365-a664-f666a0983d80.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc="
+        }
+      ]
+    },
+    {
+      "Route": "videos/video10s_a2803431-7903-4365-a664-f666a0983d80.mp4",
+      "AssetFile": "E:\\Course\\Api_TikTok\\wwwroot\\videos\\video10s_a2803431-7903-4365-a664-f666a0983d80.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16741710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 02:42:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EOE49Tb8SJaWRzrZXqJ5HS4P6/3QCCtIRJIaK3utqbc="
+        }
+      ]
+    }
+  ]
+}

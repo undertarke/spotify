@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Course\\Api_TikTok\\wwwroot\\avatars\\db_0d92d9bd-0c0b-49ea-ada5-acce5826b3f2.png",
+      "PackagePath": "staticwebassets\\avatars\\db_0d92d9bd-0c0b-49ea-ada5-acce5826b3f2.png"
+    },
+    {
+      "Id": "E:\\Course\\Api_TikTok\\wwwroot\\videos\\video10s_265034ec-d17d-4a2c-b97b-426fb6c7c149.mp4",
+      "PackagePath": "staticwebassets\\videos\\video10s_265034ec-d17d-4a2c-b97b-426fb6c7c149.mp4"
+    },
+    {
+      "Id": "E:\\Course\\Api_TikTok\\wwwroot\\videos\\video10s_7b60e2c0-1191-4f9c-9d20-d297aad0c628.mp4",
+      "PackagePath": "staticwebassets\\videos\\video10s_7b60e2c0-1191-4f9c-9d20-d297aad0c628.mp4"
+    },
+    {
+      "Id": "E:\\Course\\Api_TikTok\\wwwroot\\videos\\video10s_a2803431-7903-4365-a664-f666a0983d80.mp4",
+      "PackagePath": "staticwebassets\\videos\\video10s_a2803431-7903-4365-a664-f666a0983d80.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Api_TikTok.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Api_TikTok.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Api_TikTok.props",
+      "PackagePath": "build\\Api_TikTok.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Api_TikTok.props",
+      "PackagePath": "buildMultiTargeting\\Api_TikTok.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Api_TikTok.props",
+      "PackagePath": "buildTransitive\\Api_TikTok.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Api_Youtube/videos/tren1p.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\tren1p.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-R\u002BwWzbVtp8GflNKWrNsdPH0RRMSiqfcrO8dhHGZV2OA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16508294"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022R\u002BwWzbVtp8GflNKWrNsdPH0RRMSiqfcrO8dhHGZV2OA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Feb 2025 06:37:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Api_Youtube/videos/tren1p.tzfvttuop5.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\tren1p.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tzfvttuop5"},{"Name":"integrity","Value":"sha256-R\u002BwWzbVtp8GflNKWrNsdPH0RRMSiqfcrO8dhHGZV2OA="},{"Name":"label","Value":"_content/Api_Youtube/videos/tren1p.mp4"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16508294"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022R\u002BwWzbVtp8GflNKWrNsdPH0RRMSiqfcrO8dhHGZV2OA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Feb 2025 06:37:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
